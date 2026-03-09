@@ -24,6 +24,5 @@ class A3: public A1,public A2{
 int main(){
     A3 obj;
     return 0;
-
- 
+    
 }
