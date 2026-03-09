@@ -25,4 +25,5 @@ class solution : public solution1,virtual solution2{
 };
 int main(){
       solution obj;
+      return 0;
 }
